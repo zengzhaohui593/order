@@ -7,7 +7,7 @@
 
 # 输入你的环境上tomcat的全路径
 # export TOMCAT_APP_PATH=tomcat在部署机器上的路径
-
+export TOMCAT_APP_PATH=/root/software/apache-tomcat-8.5.38
 ### base 函数
 killTomcat()
 {
